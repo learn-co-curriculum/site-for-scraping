@@ -1,0 +1,61 @@
+<!DOCTYPE html> <html> <head> <link href='fullcalendar.css' rel=stylesheet /> <link href='fullcalendar.print.css' rel=stylesheet media=print /> <script src='lib/jquery.min.js'></script> <script src='lib/jquery-ui.custom.min.js'></script> <script src='fullcalendar.min.js'></script> <script src='gcal.js'></script> <script>
+
+	$(document).ready(function() {
+	
+		$('#calendar').fullCalendar({
+		
+			// US Holidays
+			events: 'https://www.google.com/calendar/feeds/flatironschool.com_nqq8dc063etggmg122l4lfdt1o%40group.calendar.google.com/public/basic',
+			
+			eventClick: function(event) {
+				// opens events in a popup window
+				//window.open(event.url, 'gcalevent', 'width=700,height=600');
+
+        var link = $(this).find('.fc-event-title').text();
+        link = link.toLowerCase().replace(/\s/g,'-');
+        link += '.html';
+        window.parent.location.href = '/nightsandweekends/courses/'+link;
+
+				return false;
+			},
+			
+			loading: function(bool) {
+				if (bool) {
+					$('#loading').show();
+				}else{
+					$('#loading').hide();
+				}
+			}
+			
+		});
+		
+	});
+
+</script> <style>
+
+	body {
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		font-size: 14px;
+		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+		}
+		
+	#loading {
+		position: absolute;
+		top: 0;
+		right: 0;
+		}
+
+	#calendar {
+		width: 100%;
+		max-height: 100%;
+		min-height: 100%;
+		margin: 0 auto 10px;
+		}
+
+		.fc-state-highlight {
+			background: rgba(51, 204, 255, .10); /* blue highlight */
+		}
+
+</style> </head> <body> <div id=loading style='display:none'>loading...</div> <div id=calendar></div> </body> </html>

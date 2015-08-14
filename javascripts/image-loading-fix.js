@@ -1,0 +1,1 @@
+$(function(){var t=$(".team-holder"),e=$(".guest-speakers");t.length>0&&handleImageLoading(t,".person-box .visual"),e.length>0&&handleImageLoading(e,"img")});var handleImageLoading=function(t,e){picturefill();var n=t.find(e);$(n.hide()),t.imagesLoaded(function(){$(n.show()),$(window).trigger("load")})};

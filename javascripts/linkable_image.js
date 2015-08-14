@@ -1,0 +1,1 @@
+$(function(){$(".linkable-image").length&&$(".linkable-image").on("click",function(){window.open($(this).data("href"),"_blank")})});

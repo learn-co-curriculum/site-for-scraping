@@ -1,0 +1,872 @@
+---
+build/images/01-small.jpg: 2015-08-14 12:32:32.000000000 -04:00
+build/images/01.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/01@2x-small.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/01@2x.jpg: 2015-08-14 12:32:36.000000000 -04:00
+build/images/02-small.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/02.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/02@2x-small.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/02@2x.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/03-small.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/03.jpg: 2015-08-14 12:32:33.000000000 -04:00
+build/images/03@2x-small.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/03@2x.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/04-small.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/04.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/04@2x-small.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/04@2x.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/05-small.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/05.jpg: 2015-08-14 12:32:34.000000000 -04:00
+build/images/05@2x-small.jpg: 2015-08-14 12:32:35.000000000 -04:00
+build/images/05@2x.jpg: 2015-08-14 12:32:35.000000000 -04:00
+build/images/06.jpg: 2015-08-14 12:32:35.000000000 -04:00
+build/images/06@2x.jpg: 2015-08-14 12:32:37.000000000 -04:00
+build/images/07-small.jpg: 2015-08-14 12:32:35.000000000 -04:00
+build/images/07.jpg: 2015-08-14 12:32:36.000000000 -04:00
+build/images/07@2x-small.jpg: 2015-08-14 12:32:36.000000000 -04:00
+build/images/07@2x.jpg: 2015-08-14 12:32:36.000000000 -04:00
+build/images/08.jpg: 2015-08-14 12:32:36.000000000 -04:00
+build/images/09.jpg: 2015-08-14 12:32:37.000000000 -04:00
+build/images/10.jpg: 2015-08-14 12:32:37.000000000 -04:00
+build/images/11-small.png: 2015-08-14 12:32:36.000000000 -04:00
+build/images/11.png: 2015-08-14 12:31:51.000000000 -04:00
+build/images/11@2x-small.png: 2015-08-14 12:32:37.000000000 -04:00
+build/images/11@2x.png: 2015-08-14 12:32:37.000000000 -04:00
+build/images/12.jpg: 2015-08-14 12:32:38.000000000 -04:00
+build/images/13-small.png: 2015-08-14 12:32:37.000000000 -04:00
+build/images/13.png: 2015-08-14 12:32:37.000000000 -04:00
+build/images/13@2x-small.png: 2015-08-14 12:32:37.000000000 -04:00
+build/images/13@2x.png: 2015-08-14 12:32:38.000000000 -04:00
+build/images/14.jpg: 2015-08-14 12:32:38.000000000 -04:00
+build/images/15.jpg: 2015-08-14 12:32:38.000000000 -04:00
+build/images/15@2x.jpg: 2015-08-14 12:32:38.000000000 -04:00
+build/images/16.jpg: 2015-08-14 12:32:38.000000000 -04:00
+build/images/16@2x.jpg: 2015-08-14 12:32:38.000000000 -04:00
+build/images/17.jpg: 2015-08-14 12:32:39.000000000 -04:00
+build/images/17@2x.jpg: 2015-08-14 12:32:41.000000000 -04:00
+build/images/18.jpg: 2015-08-14 12:32:39.000000000 -04:00
+build/images/18@2x.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/28.jpg: 2015-08-14 12:32:40.000000000 -04:00
+build/images/28@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/37.jpg: 2015-08-14 12:32:41.000000000 -04:00
+build/images/37@2x.jpg: 2015-08-14 12:32:45.000000000 -04:00
+build/images/38.jpg: 2015-08-14 12:32:41.000000000 -04:00
+build/images/38@2x.jpg: 2015-08-14 12:32:41.000000000 -04:00
+build/images/39.jpg: 2015-08-14 12:32:41.000000000 -04:00
+build/images/39@2x.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/40.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/40@2x.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/41.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/41@2x.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/42.jpg: 2015-08-14 12:32:42.000000000 -04:00
+build/images/42@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/43.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/43@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/44.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/44@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/45.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/45@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/46.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/46@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/47.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/47@2x.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/48.jpg: 2015-08-14 12:32:43.000000000 -04:00
+build/images/48@2x.jpg: 2015-08-14 12:32:44.000000000 -04:00
+build/images/49.jpg: 2015-08-14 12:32:44.000000000 -04:00
+build/images/49@2x.jpg: 2015-08-14 12:32:44.000000000 -04:00
+build/images/50.jpg: 2015-08-14 12:32:44.000000000 -04:00
+build/images/50@2x.jpg: 2015-08-14 12:32:44.000000000 -04:00
+build/images/51.jpg: 2015-08-14 12:32:45.000000000 -04:00
+build/images/51@2x.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/52@2x.jpg: 2015-08-14 12:32:45.000000000 -04:00
+build/images/53@2x.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/54.jpg: 2015-08-14 12:32:45.000000000 -04:00
+build/images/54@2x.jpg: 2015-08-14 12:32:45.000000000 -04:00
+build/images/55.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/55@2x.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/56.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/56@2x.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/57.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/57@2x.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/58.jpg: 2015-08-14 12:32:46.000000000 -04:00
+build/images/58@2x.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/59.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/59@2x.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/60.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/60@2x.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/61.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/61@2x.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/62.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/62@2x.jpg: 2015-08-14 12:32:47.000000000 -04:00
+build/images/63@2x.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/64.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/64@2x.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/65.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/65@2x.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/66.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/66@2x.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/67.jpg: 2015-08-14 12:32:48.000000000 -04:00
+build/images/67@2x.jpg: 2015-08-14 12:32:49.000000000 -04:00
+build/images/68.jpg: 2015-08-14 12:32:49.000000000 -04:00
+build/images/68@2.jpg: 2015-08-14 12:32:50.000000000 -04:00
+build/images/68@2x.jpg: 2015-08-14 12:32:51.000000000 -04:00
+build/images/about-carousel-class.jpg: 2015-08-14 12:32:52.000000000 -04:00
+build/images/about-carousel-drone.jpg: 2015-08-14 12:32:52.000000000 -04:00
+build/images/about-carousel-funjves.jpg: 2015-08-14 12:32:53.000000000 -04:00
+build/images/about-carousel-nate.jpg: 2015-08-14 12:32:55.000000000 -04:00
+build/images/about-carousel-sarah.jpg: 2015-08-14 12:32:55.000000000 -04:00
+build/images/about-page-blake.jpg: 2015-08-14 12:32:53.000000000 -04:00
+build/images/android-hero.jpg: 2015-08-14 12:32:53.000000000 -04:00
+build/images/android-hero@2x.jpg: 2015-08-14 12:32:54.000000000 -04:00
+build/images/android-play-button.png: 2015-08-14 12:33:01.000000000 -04:00
+build/images/aptitude.png: 2015-08-14 12:32:55.000000000 -04:00
+build/images/aptitude@2x.png: 2015-08-14 12:32:56.000000000 -04:00
+build/images/beta_beat.png: 2015-08-14 12:32:56.000000000 -04:00
+build/images/bg-social.png: 2015-08-14 12:32:56.000000000 -04:00
+build/images/btn-play.png: 2015-08-14 12:33:00.000000000 -04:00
+build/images/btn-play@2x.png: 2015-08-14 12:33:14.000000000 -04:00
+build/images/circuit.png: 2015-08-14 12:32:57.000000000 -04:00
+build/images/circuit@2x.png: 2015-08-14 12:32:58.000000000 -04:00
+build/images/code-challenge.png: 2015-08-14 12:33:00.000000000 -04:00
+build/images/code-challenge@2x.png: 2015-08-14 12:33:01.000000000 -04:00
+build/images/community_1.jpg: 2015-08-14 12:33:01.000000000 -04:00
+build/images/community_2.jpg: 2015-08-14 12:33:02.000000000 -04:00
+build/images/community_3.jpg: 2015-08-14 12:33:03.000000000 -04:00
+build/images/community_4.jpg: 2015-08-14 12:33:03.000000000 -04:00
+build/images/css.png: 2015-08-14 12:33:04.000000000 -04:00
+build/images/css@2x.png: 2015-08-14 12:33:10.000000000 -04:00
+build/images/culture.png: 2015-08-14 12:33:06.000000000 -04:00
+build/images/culture@2x.png: 2015-08-14 12:33:07.000000000 -04:00
+build/images/debbie_madden.png: 2015-08-14 12:33:11.000000000 -04:00
+build/images/diyelectronics-hero.jpg: 2015-08-14 12:33:11.000000000 -04:00
+build/images/diyelectronics-hero@2x.jpg: 2015-08-14 12:33:12.000000000 -04:00
+build/images/dosomething/dosomething-logo.png: 2015-08-14 12:33:32.000000000 -04:00
+build/images/dosomething/student.png: 2015-08-14 12:34:20.000000000 -04:00
+build/images/electricity.png: 2015-08-14 12:33:15.000000000 -04:00
+build/images/electricity@2x.png: 2015-08-14 12:33:16.000000000 -04:00
+build/images/events-hero.jpg: 2015-08-14 12:33:17.000000000 -04:00
+build/images/fis-tumblr-logo.png: 2015-08-14 12:33:41.000000000 -04:00
+build/images/fogcreek/FC_circular_image.png: 2015-08-14 12:33:43.000000000 -04:00
+build/images/fogcreek/FC_hero_image.png: 2015-08-14 12:33:47.000000000 -04:00
+build/images/fogcreek/FC_square_image.png: 2015-08-14 12:33:47.000000000 -04:00
+build/images/fogcreek/FC_whitelines.png: 2015-08-14 12:34:09.000000000 -04:00
+build/images/fogcreek/fog-creek.png: 2015-08-14 12:33:50.000000000 -04:00
+build/images/fogcreek/stack-exchange.png: 2015-08-14 12:33:58.000000000 -04:00
+build/images/fogcreek/trello.png: 2015-08-14 12:33:58.000000000 -04:00
+build/images/frontend-hero.jpg: 2015-08-14 12:34:00.000000000 -04:00
+build/images/frontend-hero@2x.jpg: 2015-08-14 12:34:01.000000000 -04:00
+build/images/fundamentals.png: 2015-08-14 12:34:01.000000000 -04:00
+build/images/fundamentals@2x.png: 2015-08-14 12:34:02.000000000 -04:00
+build/images/git.png: 2015-08-14 12:34:02.000000000 -04:00
+build/images/git@2x.png: 2015-08-14 12:34:04.000000000 -04:00
+build/images/guest-speakers/amanda-peyton.jpg: 2015-08-14 12:34:03.000000000 -04:00
+build/images/guest-speakers/baratunde-thurston.jpg: 2015-08-14 12:34:03.000000000
+  -04:00
+build/images/guest-speakers/john-resig.jpg: 2015-08-14 12:34:04.000000000 -04:00
+build/images/guest-speakers/jose-valim.jpg: 2015-08-14 12:34:04.000000000 -04:00
+build/images/guest-speakers/katia-beauchamp.jpg: 2015-08-14 12:34:05.000000000 -04:00
+build/images/guest-speakers/orta-therox.jpg: 2015-08-14 12:34:05.000000000 -04:00
+build/images/guest-speakers/sandi-metz.jpg: 2015-08-14 12:34:05.000000000 -04:00
+build/images/guest-speakers/sethgodin.jpg: 2015-08-14 12:34:05.000000000 -04:00
+build/images/guest-speakers/stephan-wolfram.jpg: 2015-08-14 12:34:06.000000000 -04:00
+build/images/html5.png: 2015-08-14 12:34:07.000000000 -04:00
+build/images/html5@2x.png: 2015-08-14 12:34:07.000000000 -04:00
+build/images/ian-miller-teaching.jpg: 2015-08-14 12:34:07.000000000 -04:00
+build/images/icon01.png: 2015-08-14 12:34:13.000000000 -04:00
+build/images/icon01@2x.png: 2015-08-14 12:34:32.000000000 -04:00
+build/images/icon02.png: 2015-08-14 12:34:20.000000000 -04:00
+build/images/icon02@2x.png: 2015-08-14 12:34:50.000000000 -04:00
+build/images/icon03.png: 2015-08-14 12:34:21.000000000 -04:00
+build/images/icon03@2x.png: 2015-08-14 12:34:22.000000000 -04:00
+build/images/icon04.png: 2015-08-14 12:31:51.000000000 -04:00
+build/images/icon04@2x.png: 2015-08-14 12:34:24.000000000 -04:00
+build/images/icon05.png: 2015-08-14 12:34:26.000000000 -04:00
+build/images/icon05@2x.png: 2015-08-14 12:34:27.000000000 -04:00
+build/images/icon06.png: 2015-08-14 12:31:51.000000000 -04:00
+build/images/icon06@2x.png: 2015-08-14 12:34:29.000000000 -04:00
+build/images/icon07.png: 2015-08-14 12:34:29.000000000 -04:00
+build/images/icon07@2x.png: 2015-08-14 12:34:30.000000000 -04:00
+build/images/icon08.png: 2015-08-14 12:34:31.000000000 -04:00
+build/images/icon08@2x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/images/icon09.png: 2015-08-14 12:31:51.000000000 -04:00
+build/images/icon09@2x.png: 2015-08-14 12:34:34.000000000 -04:00
+build/images/icon10.png: 2015-08-14 12:34:34.000000000 -04:00
+build/images/icon10@2x.png: 2015-08-14 12:34:34.000000000 -04:00
+build/images/icon11.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/icon11@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/img01-small.jpg: 2015-08-14 12:34:35.000000000 -04:00
+build/images/img01.jpg: 2015-08-14 12:34:36.000000000 -04:00
+build/images/img01@2x-small.jpg: 2015-08-14 12:34:36.000000000 -04:00
+build/images/img01@2x.jpg: 2015-08-14 12:34:38.000000000 -04:00
+build/images/img02-small.jpg: 2015-08-14 12:34:36.000000000 -04:00
+build/images/img02.jpg: 2015-08-14 12:34:36.000000000 -04:00
+build/images/img02@2x-small.jpg: 2015-08-14 12:34:37.000000000 -04:00
+build/images/img02@2x.jpg: 2015-08-14 12:34:37.000000000 -04:00
+build/images/img03-small.jpg: 2015-08-14 12:34:37.000000000 -04:00
+build/images/img03.jpg: 2015-08-14 12:34:37.000000000 -04:00
+build/images/img03@2x-small.jpg: 2015-08-14 12:34:38.000000000 -04:00
+build/images/img03@2x.jpg: 2015-08-14 12:34:38.000000000 -04:00
+build/images/img04-small.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img04.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img04@2x-small.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img04@2x.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img05-small.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img05.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img05@2x-small.jpg: 2015-08-14 12:34:39.000000000 -04:00
+build/images/img05@2x.jpg: 2015-08-14 12:34:40.000000000 -04:00
+build/images/img06.jpg: 2015-08-14 12:34:40.000000000 -04:00
+build/images/img06@2x.jpg: 2015-08-14 12:34:42.000000000 -04:00
+build/images/img07-small.jpg: 2015-08-14 12:34:40.000000000 -04:00
+build/images/img07.jpg: 2015-08-14 12:34:41.000000000 -04:00
+build/images/img07@2x-small.jpg: 2015-08-14 12:34:41.000000000 -04:00
+build/images/img07@2x.jpg: 2015-08-14 12:34:41.000000000 -04:00
+build/images/img08.jpg: 2015-08-14 12:34:42.000000000 -04:00
+build/images/img09.jpg: 2015-08-14 12:34:42.000000000 -04:00
+build/images/img10.jpg: 2015-08-14 12:34:43.000000000 -04:00
+build/images/img11-small.png: 2015-08-14 12:34:42.000000000 -04:00
+build/images/img11.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/img11@2x-small.png: 2015-08-14 12:34:43.000000000 -04:00
+build/images/img11@2x.png: 2015-08-14 12:34:43.000000000 -04:00
+build/images/img12.jpg: 2015-08-14 12:34:44.000000000 -04:00
+build/images/img13-small.png: 2015-08-14 12:34:44.000000000 -04:00
+build/images/img13.png: 2015-08-14 12:34:44.000000000 -04:00
+build/images/img13@2x-small.png: 2015-08-14 12:34:44.000000000 -04:00
+build/images/img13@2x.png: 2015-08-14 12:34:44.000000000 -04:00
+build/images/img14.jpg: 2015-08-14 12:34:44.000000000 -04:00
+build/images/img15.jpg: 2015-08-14 12:34:45.000000000 -04:00
+build/images/img15@2x.jpg: 2015-08-14 12:34:45.000000000 -04:00
+build/images/img16.jpg: 2015-08-14 12:34:45.000000000 -04:00
+build/images/img16@2x.jpg: 2015-08-14 12:34:45.000000000 -04:00
+build/images/img17.jpg: 2015-08-14 12:34:46.000000000 -04:00
+build/images/img17@2x.jpg: 2015-08-14 12:34:47.000000000 -04:00
+build/images/img18.jpg: 2015-08-14 12:34:47.000000000 -04:00
+build/images/img18@2x.jpg: 2015-08-14 12:34:50.000000000 -04:00
+build/images/img28.jpg: 2015-08-14 12:34:48.000000000 -04:00
+build/images/img28@2x.jpg: 2015-08-14 12:34:51.000000000 -04:00
+build/images/img37.jpg: 2015-08-14 12:34:51.000000000 -04:00
+build/images/img37@2x.jpg: 2015-08-14 12:34:54.000000000 -04:00
+build/images/img38.jpg: 2015-08-14 12:34:51.000000000 -04:00
+build/images/img38@2x.jpg: 2015-08-14 12:34:51.000000000 -04:00
+build/images/img39.jpg: 2015-08-14 12:34:51.000000000 -04:00
+build/images/img39@2x.jpg: 2015-08-14 12:34:51.000000000 -04:00
+build/images/img40.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img40@2x.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img41.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img41@2x.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img42.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img42@2x.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img43.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img43@2x.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img44.jpg: 2015-08-14 12:34:52.000000000 -04:00
+build/images/img44@2x.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img45.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img45@2x.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img46.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img46@2x.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img47.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img47@2x.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img48.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img48@2x.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img49.jpg: 2015-08-14 12:34:53.000000000 -04:00
+build/images/img49@2x.jpg: 2015-08-14 12:34:54.000000000 -04:00
+build/images/img50.jpg: 2015-08-14 12:34:54.000000000 -04:00
+build/images/img50@2x.jpg: 2015-08-14 12:34:54.000000000 -04:00
+build/images/img51.jpg: 2015-08-14 12:34:55.000000000 -04:00
+build/images/img51@2x.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img52@2x.jpg: 2015-08-14 12:34:55.000000000 -04:00
+build/images/img53@2x.jpg: 2015-08-14 12:34:55.000000000 -04:00
+build/images/img54.jpg: 2015-08-14 12:34:55.000000000 -04:00
+build/images/img54@2x.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img55.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img55@2x.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img56.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img56@2x.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img57.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img57@2x.jpg: 2015-08-14 12:34:56.000000000 -04:00
+build/images/img58.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img58@2x.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img59.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img59@2x.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img60.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img60@2x.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img61.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img61@2x.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img62.jpg: 2015-08-14 12:34:57.000000000 -04:00
+build/images/img62@2x.jpg: 2015-08-14 12:34:58.000000000 -04:00
+build/images/img63@2x.jpg: 2015-08-14 12:34:58.000000000 -04:00
+build/images/img64.jpg: 2015-08-14 12:34:58.000000000 -04:00
+build/images/img64@2x.jpg: 2015-08-14 12:34:58.000000000 -04:00
+build/images/img65.jpg: 2015-08-14 12:34:58.000000000 -04:00
+build/images/img65@2x.jpg: 2015-08-14 12:34:59.000000000 -04:00
+build/images/img66.jpg: 2015-08-14 12:34:58.000000000 -04:00
+build/images/img66@2x.jpg: 2015-08-14 12:34:59.000000000 -04:00
+build/images/img67.jpg: 2015-08-14 12:34:59.000000000 -04:00
+build/images/img67@2x.jpg: 2015-08-14 12:34:59.000000000 -04:00
+build/images/img68.jpg: 2015-08-14 12:35:00.000000000 -04:00
+build/images/img68@2.jpg: 2015-08-14 12:35:01.000000000 -04:00
+build/images/img68@2x.jpg: 2015-08-14 12:35:01.000000000 -04:00
+build/images/ios-hero.jpg: 2015-08-14 12:35:00.000000000 -04:00
+build/images/ios-hero@2x.jpg: 2015-08-14 12:35:01.000000000 -04:00
+build/images/j_moses.jpg: 2015-08-14 12:31:52.000000000 -04:00
+build/images/katie-hoffman.jpg: 2015-08-14 12:35:01.000000000 -04:00
+build/images/kevin_mcnamee.png: 2015-08-14 12:35:08.000000000 -04:00
+build/images/logo-scroll.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/logo-scroll@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/logo.png: 2015-08-14 12:35:08.000000000 -04:00
+build/images/logo02.png: 2015-08-14 12:35:25.000000000 -04:00
+build/images/mobile.png: 2015-08-14 12:35:10.000000000 -04:00
+build/images/mobile@2x.png: 2015-08-14 12:35:12.000000000 -04:00
+build/images/natacha.png: 2015-08-14 12:35:13.000000000 -04:00
+build/images/new-hero-small.jpg: 2015-08-14 12:35:13.000000000 -04:00
+build/images/new-hero.jpg: 2015-08-14 12:35:14.000000000 -04:00
+build/images/new-hero@2x-small.jpg: 2015-08-14 12:35:15.000000000 -04:00
+build/images/new-hero@2x.jpg: 2015-08-14 12:35:17.000000000 -04:00
+build/images/objc.png: 2015-08-14 12:35:17.000000000 -04:00
+build/images/objc@2x.png: 2015-08-14 12:35:19.000000000 -04:00
+build/images/part-logo01.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo01@2x.png: 2015-08-14 12:35:18.000000000 -04:00
+build/images/part-logo02.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo02@2x.png: 2015-08-14 12:35:20.000000000 -04:00
+build/images/part-logo03.png: 2015-08-14 12:35:21.000000000 -04:00
+build/images/part-logo03@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo04.png: 2015-08-14 12:35:22.000000000 -04:00
+build/images/part-logo04@2x.png: 2015-08-14 12:35:29.000000000 -04:00
+build/images/part-logo05.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo05@2x.png: 2015-08-14 12:35:28.000000000 -04:00
+build/images/part-logo06.png: 2015-08-14 12:35:27.000000000 -04:00
+build/images/part-logo06@2x.png: 2015-08-14 12:35:28.000000000 -04:00
+build/images/part-logo07.png: 2015-08-14 12:35:29.000000000 -04:00
+build/images/part-logo07@2x.png: 2015-08-14 12:35:36.000000000 -04:00
+build/images/part-logo08.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo08@2x.png: 2015-08-14 12:35:31.000000000 -04:00
+build/images/part-logo09.png: 2015-08-14 12:35:30.000000000 -04:00
+build/images/part-logo09@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo10.png: 2015-08-14 12:35:31.000000000 -04:00
+build/images/part-logo10@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo11.png: 2015-08-14 12:35:32.000000000 -04:00
+build/images/part-logo11@2x.png: 2015-08-14 12:35:33.000000000 -04:00
+build/images/part-logo12.png: 2015-08-14 12:35:33.000000000 -04:00
+build/images/part-logo12@2x.png: 2015-08-14 12:35:34.000000000 -04:00
+build/images/part-logo13.png: 2015-08-14 12:35:33.000000000 -04:00
+build/images/part-logo13@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo14.png: 2015-08-14 12:35:35.000000000 -04:00
+build/images/part-logo14@2x.png: 2015-08-14 12:35:38.000000000 -04:00
+build/images/part-logo15.png: 2015-08-14 12:35:37.000000000 -04:00
+build/images/part-logo15@2x.png: 2015-08-14 12:35:37.000000000 -04:00
+build/images/part-logo16.png: 2015-08-14 12:38:05.000000000 -04:00
+build/images/part-logo16@2x.png: 2015-08-14 12:38:10.000000000 -04:00
+build/images/part-logo17.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo17@2x.png: 2015-08-14 12:38:08.000000000 -04:00
+build/images/part-logo18.png: 2015-08-14 12:38:08.000000000 -04:00
+build/images/part-logo18@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo19.png: 2015-08-14 12:38:10.000000000 -04:00
+build/images/part-logo19@2x.png: 2015-08-14 12:38:10.000000000 -04:00
+build/images/part-logo20.png: 2015-08-14 12:38:11.000000000 -04:00
+build/images/part-logo20@2x.png: 2015-08-14 12:38:12.000000000 -04:00
+build/images/part-logo21.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo21@2x.png: 2015-08-14 12:38:12.000000000 -04:00
+build/images/part-logo22.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo22@2x.png: 2015-08-14 12:38:13.000000000 -04:00
+build/images/part-logo23.png: 2015-08-14 12:38:13.000000000 -04:00
+build/images/part-logo23@2x.png: 2015-08-14 12:38:13.000000000 -04:00
+build/images/part-logo24.png: 2015-08-14 12:38:14.000000000 -04:00
+build/images/part-logo24@2x.png: 2015-08-14 12:38:15.000000000 -04:00
+build/images/part-logo25.png: 2015-08-14 12:38:14.000000000 -04:00
+build/images/part-logo25@2x.png: 2015-08-14 12:38:18.000000000 -04:00
+build/images/part-logo26.png: 2015-08-14 12:38:15.000000000 -04:00
+build/images/part-logo26@2x.png: 2015-08-14 12:38:19.000000000 -04:00
+build/images/part-logo27.png: 2015-08-14 12:38:18.000000000 -04:00
+build/images/part-logo27@2x.png: 2015-08-14 12:38:18.000000000 -04:00
+build/images/part-logo28.png: 2015-08-14 12:38:18.000000000 -04:00
+build/images/part-logo28@2x.png: 2015-08-14 12:38:18.000000000 -04:00
+build/images/part-logo29.png: 2015-08-14 12:38:18.000000000 -04:00
+build/images/part-logo29@2x.png: 2015-08-14 12:38:21.000000000 -04:00
+build/images/part-logo30.png: 2015-08-14 12:38:19.000000000 -04:00
+build/images/part-logo30@2x.png: 2015-08-14 12:38:19.000000000 -04:00
+build/images/part-logo31.png: 2015-08-14 12:38:19.000000000 -04:00
+build/images/part-logo31@2x.png: 2015-08-14 12:38:20.000000000 -04:00
+build/images/part-logo33.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo33@2x.png: 2015-08-14 12:38:20.000000000 -04:00
+build/images/part-logo34.png: 2015-08-14 12:38:20.000000000 -04:00
+build/images/part-logo34@2x.png: 2015-08-14 12:38:21.000000000 -04:00
+build/images/part-logo35.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo35@2x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo36.png: 2015-08-14 12:31:52.000000000 -04:00
+build/images/part-logo36@2x.png: 2015-08-14 12:38:23.000000000 -04:00
+build/images/part-logo37.png: 2015-08-14 12:38:22.000000000 -04:00
+build/images/part-logo37@2x.png: 2015-08-14 12:38:22.000000000 -04:00
+build/images/part-logo38.png: 2015-08-14 12:38:22.000000000 -04:00
+build/images/part-logo38@2x.png: 2015-08-14 12:38:31.000000000 -04:00
+build/images/part-logo39.png: 2015-08-14 12:38:22.000000000 -04:00
+build/images/part-logo39@2x.png: 2015-08-14 12:38:23.000000000 -04:00
+build/images/passion.png: 2015-08-14 12:38:25.000000000 -04:00
+build/images/passion@2x.png: 2015-08-14 12:38:25.000000000 -04:00
+build/images/pencil-paper.png: 2015-08-14 12:38:29.000000000 -04:00
+build/images/presentation.jpg: 2015-08-14 12:38:27.000000000 -04:00
+build/images/presentation@2x.jpg: 2015-08-14 12:38:27.000000000 -04:00
+build/images/presentations.png: 2015-08-14 12:38:29.000000000 -04:00
+build/images/presentations@2x.png: 2015-08-14 12:38:30.000000000 -04:00
+build/images/quad.jpg: 2015-08-14 12:38:30.000000000 -04:00
+build/images/quad@2x.jpg: 2015-08-14 12:38:31.000000000 -04:00
+build/images/quora-icon.png: 2015-08-14 12:38:31.000000000 -04:00
+build/images/rails.png: 2015-08-14 12:38:31.000000000 -04:00
+build/images/rails@2x.png: 2015-08-14 12:38:32.000000000 -04:00
+build/images/responsive-interface.png: 2015-08-14 12:38:32.000000000 -04:00
+build/images/responsive-interface@2x.png: 2015-08-14 12:38:34.000000000 -04:00
+build/images/ruby.png: 2015-08-14 12:38:34.000000000 -04:00
+build/images/ruby@2x.png: 2015-08-14 12:38:34.000000000 -04:00
+build/images/science-fair.jpg: 2015-08-14 12:38:34.000000000 -04:00
+build/images/science-fair@2x.jpg: 2015-08-14 12:38:35.000000000 -04:00
+build/images/slide01-small.png: 2015-08-14 12:38:34.000000000 -04:00
+build/images/slide01.png: 2015-08-14 12:38:50.000000000 -04:00
+build/images/slide01@2x-small.png: 2015-08-14 12:38:38.000000000 -04:00
+build/images/slide01@2x.png: 2015-08-14 12:40:22.000000000 -04:00
+build/images/solder.png: 2015-08-14 12:38:36.000000000 -04:00
+build/images/solder@2x.png: 2015-08-14 12:38:37.000000000 -04:00
+build/images/speakers-hero.jpg: 2015-08-14 12:38:38.000000000 -04:00
+build/images/staff/adam-enbar.jpg: 2015-08-14 12:38:38.000000000 -04:00
+build/images/staff/adam-enbar@2x.jpg: 2015-08-14 12:38:39.000000000 -04:00
+build/images/staff/adam-jonas.jpg: 2015-08-14 12:38:39.000000000 -04:00
+build/images/staff/adam-jonas@2x.jpg: 2015-08-14 12:38:41.000000000 -04:00
+build/images/staff/amanda-chang-round.png: 2015-08-14 12:38:44.000000000 -04:00
+build/images/staff/amanda-chang-round@2x.png: 2015-08-14 12:38:54.000000000 -04:00
+build/images/staff/amanda-chang.jpg: 2015-08-14 12:38:46.000000000 -04:00
+build/images/staff/amanda-chang@2x.jpg: 2015-08-14 12:38:46.000000000 -04:00
+build/images/staff/amanda-davria.jpg: 2015-08-14 12:38:47.000000000 -04:00
+build/images/staff/amanda-davria@2x.jpg: 2015-08-14 12:38:47.000000000 -04:00
+build/images/staff/amanda-himmelstoss.jpg: 2015-08-14 12:38:47.000000000 -04:00
+build/images/staff/amanda-himmelstoss@2x.jpg: 2015-08-14 12:38:48.000000000 -04:00
+build/images/staff/amelia-tidona.jpg: 2015-08-14 12:38:48.000000000 -04:00
+build/images/staff/amelia-tidona@2x.jpg: 2015-08-14 12:38:48.000000000 -04:00
+build/images/staff/ann-john.jpg: 2015-08-14 12:38:49.000000000 -04:00
+build/images/staff/ann-john@2x.jpg: 2015-08-14 12:38:49.000000000 -04:00
+build/images/staff/anna-kondracka.jpg: 2015-08-14 12:38:49.000000000 -04:00
+build/images/staff/anna-kondracka@2x.jpg: 2015-08-14 12:38:50.000000000 -04:00
+build/images/staff/avi-flombaum-round.png: 2015-08-14 12:38:53.000000000 -04:00
+build/images/staff/avi-flombaum-round@2x.png: 2015-08-14 12:39:07.000000000 -04:00
+build/images/staff/avi-flombaum.jpg: 2015-08-14 12:38:58.000000000 -04:00
+build/images/staff/avi-flombaum@2x.jpg: 2015-08-14 12:38:58.000000000 -04:00
+build/images/staff/ben-gross-round.png: 2015-08-14 12:38:58.000000000 -04:00
+build/images/staff/ben-gross-round@2x.png: 2015-08-14 12:39:01.000000000 -04:00
+build/images/staff/ben-gross.jpg: 2015-08-14 12:39:00.000000000 -04:00
+build/images/staff/ben-gross@2x.jpg: 2015-08-14 12:39:00.000000000 -04:00
+build/images/staff/blake-johnson.jpg: 2015-08-14 12:39:00.000000000 -04:00
+build/images/staff/blake-johnson@2x.jpg: 2015-08-14 12:39:01.000000000 -04:00
+build/images/staff/brian-kil.jpg: 2015-08-14 12:39:01.000000000 -04:00
+build/images/staff/brian-kil@2x.jpg: 2015-08-14 12:39:01.000000000 -04:00
+build/images/staff/carley-mcgee.jpg: 2015-08-14 12:39:01.000000000 -04:00
+build/images/staff/carley-mcgee@2x.jpg: 2015-08-14 12:39:02.000000000 -04:00
+build/images/staff/christopher-aporta.jpg: 2015-08-14 12:39:02.000000000 -04:00
+build/images/staff/christopher-aporta@2x.jpg: 2015-08-14 12:39:02.000000000 -04:00
+build/images/staff/cindy-chin.jpg: 2015-08-14 12:39:03.000000000 -04:00
+build/images/staff/cindy-chin@2x.jpg: 2015-08-14 12:39:03.000000000 -04:00
+build/images/staff/cricky-cicchetti.jpg: 2015-08-14 12:39:03.000000000 -04:00
+build/images/staff/cricky-cicchetti@2x.jpg: 2015-08-14 12:39:03.000000000 -04:00
+build/images/staff/dan-chang.jpg: 2015-08-14 12:39:03.000000000 -04:00
+build/images/staff/dan-chang@2x.jpg: 2015-08-14 12:39:04.000000000 -04:00
+build/images/staff/daniel-fenjves.png: 2015-08-14 12:39:04.000000000 -04:00
+build/images/staff/daniel-fenjves@2x.png: 2015-08-14 12:39:08.000000000 -04:00
+build/images/staff/danny-sullivan.jpg: 2015-08-14 12:39:04.000000000 -04:00
+build/images/staff/danny-sullivan@2x.jpg: 2015-08-14 12:39:05.000000000 -04:00
+build/images/staff/deniz-unat-round.png: 2015-08-14 12:39:06.000000000 -04:00
+build/images/staff/deniz-unat-round@2x.png: 2015-08-14 12:39:17.000000000 -04:00
+build/images/staff/deniz-unat.jpg: 2015-08-14 12:39:09.000000000 -04:00
+build/images/staff/deniz-unat@2x.jpg: 2015-08-14 12:39:09.000000000 -04:00
+build/images/staff/diane-vu.jpg: 2015-08-14 12:39:09.000000000 -04:00
+build/images/staff/diane-vu@2x.jpg: 2015-08-14 12:39:10.000000000 -04:00
+build/images/staff/edvin-lee.jpg: 2015-08-14 12:39:10.000000000 -04:00
+build/images/staff/edvin-lee@2x.jpg: 2015-08-14 12:39:10.000000000 -04:00
+build/images/staff/elana-jacobs.jpg: 2015-08-14 12:39:10.000000000 -04:00
+build/images/staff/elana-jacobs@2x.jpg: 2015-08-14 12:39:11.000000000 -04:00
+build/images/staff/eric-rafaloff.jpg: 2015-08-14 12:39:11.000000000 -04:00
+build/images/staff/eric-rafaloff@2x.jpg: 2015-08-14 12:39:11.000000000 -04:00
+build/images/staff/francesca-krihely.jpg: 2015-08-14 12:39:11.000000000 -04:00
+build/images/staff/francesca-krihely@2x.jpg: 2015-08-14 12:39:12.000000000 -04:00
+build/images/staff/hope-reagan.jpg: 2015-08-14 12:39:12.000000000 -04:00
+build/images/staff/hope-reagan@2x.jpg: 2015-08-14 12:39:12.000000000 -04:00
+build/images/staff/ian-candy.jpg: 2015-08-14 12:39:12.000000000 -04:00
+build/images/staff/ian-candy@2x.jpg: 2015-08-14 12:39:12.000000000 -04:00
+build/images/staff/img57.jpg: 2015-08-14 12:39:12.000000000 -04:00
+build/images/staff/img57@2x.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/inga-nikitina.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/inga-nikitina@2x.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/jackie-morgan.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/jackie-morgan@2x.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/jeff-katz.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/jeff-katz@2x.jpg: 2015-08-14 12:39:13.000000000 -04:00
+build/images/staff/jess-parker.jpg: 2015-08-14 12:39:14.000000000 -04:00
+build/images/staff/jess-parker@2x.jpg: 2015-08-14 12:39:14.000000000 -04:00
+build/images/staff/jess-rudder.jpg: 2015-08-14 12:39:14.000000000 -04:00
+build/images/staff/jess-rudder@2x.jpg: 2015-08-14 12:39:14.000000000 -04:00
+build/images/staff/jim-campagno.jpg: 2015-08-14 12:39:14.000000000 -04:00
+build/images/staff/jim-campagno@2x.jpg: 2015-08-14 12:39:14.000000000 -04:00
+build/images/staff/joe-burgess-round.png: 2015-08-14 12:39:16.000000000 -04:00
+build/images/staff/joe-burgess-round@2x.png: 2015-08-14 12:39:19.000000000 -04:00
+build/images/staff/joe-burgess.jpg: 2015-08-14 12:39:18.000000000 -04:00
+build/images/staff/joe-burgess@2x.jpg: 2015-08-14 12:39:19.000000000 -04:00
+build/images/staff/joe-lehr.jpg: 2015-08-14 12:39:19.000000000 -04:00
+build/images/staff/joe-lehr@2x.jpg: 2015-08-14 12:39:19.000000000 -04:00
+build/images/staff/john-marc-imbrescia.jpg: 2015-08-14 12:39:19.000000000 -04:00
+build/images/staff/john-marc-imbrescia@2x.jpg: 2015-08-14 12:39:20.000000000 -04:00
+build/images/staff/jonathan-grover-round.png: 2015-08-14 12:39:21.000000000 -04:00
+build/images/staff/jonathan-grover-round@2x.png: 2015-08-14 12:39:23.000000000 -04:00
+build/images/staff/jonathan-grover.jpg: 2015-08-14 12:39:24.000000000 -04:00
+build/images/staff/jonathan-grover@2x.jpg: 2015-08-14 12:39:25.000000000 -04:00
+build/images/staff/jonathan-moss.jpg: 2015-08-14 12:39:25.000000000 -04:00
+build/images/staff/jonathan-moss@2x.jpg: 2015-08-14 12:39:25.000000000 -04:00
+build/images/staff/josh-owens-round.png: 2015-08-14 12:39:26.000000000 -04:00
+build/images/staff/josh-owens-round@2x.png: 2015-08-14 12:39:28.000000000 -04:00
+build/images/staff/josh-owens.jpg: 2015-08-14 12:39:26.000000000 -04:00
+build/images/staff/josh-owens@2x.jpg: 2015-08-14 12:39:27.000000000 -04:00
+build/images/staff/josh-rowley.jpg: 2015-08-14 12:39:27.000000000 -04:00
+build/images/staff/josh-rowley@2x.jpg: 2015-08-14 12:39:27.000000000 -04:00
+build/images/staff/kaitlin-vignali.jpg: 2015-08-14 12:39:27.000000000 -04:00
+build/images/staff/kaitlin-vignali@2x.jpg: 2015-08-14 12:39:27.000000000 -04:00
+build/images/staff/kate-travers.jpg: 2015-08-14 12:39:27.000000000 -04:00
+build/images/staff/kate-travers@2x.jpg: 2015-08-14 12:39:28.000000000 -04:00
+build/images/staff/katie-hoffman.jpg: 2015-08-14 12:39:28.000000000 -04:00
+build/images/staff/katie-hoffman@2x.jpg: 2015-08-14 12:39:28.000000000 -04:00
+build/images/staff/kevin-character.jpg: 2015-08-14 12:39:31.000000000 -04:00
+build/images/staff/kevin-character@2x.jpg: 2015-08-14 12:39:31.000000000 -04:00
+build/images/staff/kristi-riordan.jpg: 2015-08-14 12:39:31.000000000 -04:00
+build/images/staff/kristi-riordan@2x.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/kristin-hoppe.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/kristin-hoppe@2x.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/lesley-bearg.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/lesley-bearg@2x.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/logan-hasson.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/logan-hasson@2x.jpg: 2015-08-14 12:39:32.000000000 -04:00
+build/images/staff/lyel-resner.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/lyel-resner@2x.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mark-murray.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mark-murray@2x.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mat-balez.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mat-balez@2x.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mike-linshi.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mike-linshi@2x.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mike-spangler.jpg: 2015-08-14 12:39:33.000000000 -04:00
+build/images/staff/mike-spangler@2x.jpg: 2015-08-14 12:39:34.000000000 -04:00
+build/images/staff/rebekah-rombom.jpg: 2015-08-14 12:39:34.000000000 -04:00
+build/images/staff/rebekah-rombom@2x.jpg: 2015-08-14 12:39:34.000000000 -04:00
+build/images/staff/rose-weixel-round.png: 2015-08-14 12:39:34.000000000 -04:00
+build/images/staff/rose-weixel-round@2x.png: 2015-08-14 12:39:34.000000000 -04:00
+build/images/staff/rose-weixel.jpg: 2015-08-14 12:39:34.000000000 -04:00
+build/images/staff/rose-weixel@2x.jpg: 2015-08-14 12:39:35.000000000 -04:00
+build/images/staff/seiji-naganuma.jpg: 2015-08-14 12:39:35.000000000 -04:00
+build/images/staff/seiji-naganuma@2x.jpg: 2015-08-14 12:39:35.000000000 -04:00
+build/images/staff/sergey-fogelson-round.jpg: 2015-08-14 12:39:35.000000000 -04:00
+build/images/staff/sergey-fogelson-round@2x.jpg: 2015-08-14 12:39:36.000000000 -04:00
+build/images/staff/sophie-debenedetto-round.png: 2015-08-14 12:39:36.000000000 -04:00
+build/images/staff/sophie-debenedetto-round@2x.png: 2015-08-14 12:39:45.000000000
+  -04:00
+build/images/staff/sophie-debenedetto.jpg: 2015-08-14 12:39:37.000000000 -04:00
+build/images/staff/sophie-debenedetto@2x.jpg: 2015-08-14 12:39:37.000000000 -04:00
+build/images/staff/spencer-rogers.png: 2015-08-14 12:39:38.000000000 -04:00
+build/images/staff/spencer-rogers@2x.png: 2015-08-14 12:39:49.000000000 -04:00
+build/images/staff/stephanie-coleman.jpg: 2015-08-14 12:39:41.000000000 -04:00
+build/images/staff/stephanie-coleman@2x.jpg: 2015-08-14 12:39:41.000000000 -04:00
+build/images/staff/steven-nunez.jpg: 2015-08-14 12:39:41.000000000 -04:00
+build/images/staff/steven-nunez@2x.jpg: 2015-08-14 12:39:42.000000000 -04:00
+build/images/staff/taranjyot-singh-multani-round.png: 2015-08-14 12:39:42.000000000
+  -04:00
+build/images/staff/taranjyot-singh-multani-round@2x.png: 2015-08-14 12:39:48.000000000
+  -04:00
+build/images/staff/tim-clem-round.png: 2015-08-14 12:39:48.000000000 -04:00
+build/images/staff/tim-clem-round@2x.png: 2015-08-14 12:39:50.000000000 -04:00
+build/images/staff/tim-clem.jpg: 2015-08-14 12:39:51.000000000 -04:00
+build/images/staff/tim-clem@2x.jpg: 2015-08-14 12:39:51.000000000 -04:00
+build/images/staff/tom-omalley.jpg: 2015-08-14 12:39:51.000000000 -04:00
+build/images/staff/tom-omalley@2x.jpg: 2015-08-14 12:39:52.000000000 -04:00
+build/images/staff/uzo-agu.jpg: 2015-08-14 12:39:52.000000000 -04:00
+build/images/staff/uzo-agu@2x.jpg: 2015-08-14 12:39:52.000000000 -04:00
+build/images/staff/victoria-friedman.jpg: 2015-08-14 12:39:52.000000000 -04:00
+build/images/staff/victoria-friedman@2x.jpg: 2015-08-14 12:39:53.000000000 -04:00
+build/images/staff/yangyang-guo.jpg: 2015-08-14 12:39:53.000000000 -04:00
+build/images/staff/yangyang-guo@2x.jpg: 2015-08-14 12:39:53.000000000 -04:00
+build/images/students-working1.jpg: 2015-08-14 12:39:54.000000000 -04:00
+build/images/students-working1@2x.jpg: 2015-08-14 12:39:54.000000000 -04:00
+build/images/sysops.png: 2015-08-14 12:39:55.000000000 -04:00
+build/images/sysops@2x.png: 2015-08-14 12:39:55.000000000 -04:00
+build/images/test-application-alt.png: 2015-08-14 12:39:56.000000000 -04:00
+build/images/test-application-alt@2x.png: 2015-08-14 12:39:57.000000000 -04:00
+build/images/test-application.png: 2015-08-14 12:39:58.000000000 -04:00
+build/images/test-application@2x.png: 2015-08-14 12:39:58.000000000 -04:00
+build/images/tfa/apple-touch-icon.png: 2015-08-14 12:39:58.000000000 -04:00
+build/images/tfa/fis-tumblr-logo-small.png: 2015-08-14 12:40:02.000000000 -04:00
+build/images/tfa/teach-for-america-small.png: 2015-08-14 12:40:00.000000000 -04:00
+build/images/universal-app.png: 2015-08-14 12:40:00.000000000 -04:00
+build/images/universal-app@2x.png: 2015-08-14 12:40:02.000000000 -04:00
+build/images/video.jpg: 2015-08-14 12:40:04.000000000 -04:00
+build/images/web-hero.jpg: 2015-08-14 12:40:03.000000000 -04:00
+build/images/web-hero@2x.jpg: 2015-08-14 12:40:04.000000000 -04:00
+build/images/wsj.png: 2015-08-14 12:40:03.000000000 -04:00
+build/images/xcode.png: 2015-08-14 12:40:05.000000000 -04:00
+build/images/xcode@2x.png: 2015-08-14 12:40:06.000000000 -04:00
+build/local/images/APIs.png: 2015-08-14 12:40:05.000000000 -04:00
+build/local/images/bg-banner.png: 2015-08-14 12:31:52.000000000 -04:00
+build/local/images/frontend-banner.png: 2015-08-14 12:40:31.000000000 -04:00
+build/local/images/html5.png: 2015-08-14 12:40:07.000000000 -04:00
+build/local/images/img1.png: 2015-08-14 12:50:26.000000000 -04:00
+build/local/images/img2.png: 2015-08-14 12:40:34.000000000 -04:00
+build/local/images/img3.png: 2015-08-14 12:31:52.000000000 -04:00
+build/local/images/img4.png: 2015-08-14 12:40:35.000000000 -04:00
+build/local/images/img5.png: 2015-08-14 12:40:36.000000000 -04:00
+build/local/images/img6.png: 2015-08-14 12:40:37.000000000 -04:00
+build/local/images/img7.png: 2015-08-14 12:40:38.000000000 -04:00
+build/local/images/jon-circ-avatar.png: 2015-08-14 12:40:39.000000000 -04:00
+build/local/images/JS.png: 2015-08-14 12:40:40.000000000 -04:00
+build/local/images/logo.png: 2015-08-14 12:40:41.000000000 -04:00
+build/local/images/responsive.png: 2015-08-14 12:50:15.000000000 -04:00
+build/local/images/sprite.png: 2015-08-14 12:50:15.000000000 -04:00
+build/local/img/apple-touch-icon.png: 2015-08-14 12:50:16.000000000 -04:00
+build/local/js/jquery-selectBox/jquery.selectBox-arrow.gif: 2015-08-14 12:31:53.000000000
+  -04:00
+build/nycfellowship/images/appnexus-logo-color.png: 2015-08-14 12:50:17.000000000
+  -04:00
+build/nycfellowship/images/appnexus-mini-color.png: 2015-08-14 12:50:21.000000000
+  -04:00
+build/nycfellowship/images/arrows.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/betaworks-logo.png: 2015-08-14 12:50:25.000000000 -04:00
+build/nycfellowship/images/betaworks-mini.png: 2015-08-14 12:50:23.000000000 -04:00
+build/nycfellowship/images/bg-block.png: 2015-08-14 12:50:41.000000000 -04:00
+build/nycfellowship/images/bg-block2.png: 2015-08-14 12:50:34.000000000 -04:00
+build/nycfellowship/images/cta-footer.png: 2015-08-14 12:51:39.000000000 -04:00
+build/nycfellowship/images/do-something-logo-mini.png: 2015-08-14 12:50:30.000000000
+  -04:00
+build/nycfellowship/images/flatiron-logo.png: 2015-08-14 12:50:32.000000000 -04:00
+build/nycfellowship/images/icon-grid.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img1.jpg: 2015-08-14 12:50:33.000000000 -04:00
+build/nycfellowship/images/img10.jpg: 2015-08-14 12:50:33.000000000 -04:00
+build/nycfellowship/images/img11.jpg: 2015-08-14 12:50:34.000000000 -04:00
+build/nycfellowship/images/img12.jpg: 2015-08-14 12:50:34.000000000 -04:00
+build/nycfellowship/images/img13.jpg: 2015-08-14 12:50:34.000000000 -04:00
+build/nycfellowship/images/img14.jpg: 2015-08-14 12:50:34.000000000 -04:00
+build/nycfellowship/images/img15.jpg: 2015-08-14 12:50:35.000000000 -04:00
+build/nycfellowship/images/img16.jpg: 2015-08-14 12:50:35.000000000 -04:00
+build/nycfellowship/images/img17.jpg: 2015-08-14 12:50:35.000000000 -04:00
+build/nycfellowship/images/img18.jpg: 2015-08-14 12:50:36.000000000 -04:00
+build/nycfellowship/images/img19.jpg: 2015-08-14 12:50:36.000000000 -04:00
+build/nycfellowship/images/img2.jpg: 2015-08-14 12:50:36.000000000 -04:00
+build/nycfellowship/images/img20.jpg: 2015-08-14 12:50:48.000000000 -04:00
+build/nycfellowship/images/img21.jpg: 2015-08-14 12:50:47.000000000 -04:00
+build/nycfellowship/images/img22.jpg: 2015-08-14 12:50:47.000000000 -04:00
+build/nycfellowship/images/img23.jpg: 2015-08-14 12:50:47.000000000 -04:00
+build/nycfellowship/images/img24-x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img24.png: 2015-08-14 12:50:59.000000000 -04:00
+build/nycfellowship/images/img25-x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img25.png: 2015-08-14 12:51:00.000000000 -04:00
+build/nycfellowship/images/img26-x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img26.png: 2015-08-14 12:51:07.000000000 -04:00
+build/nycfellowship/images/img27-x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img27.png: 2015-08-14 12:51:10.000000000 -04:00
+build/nycfellowship/images/img28-x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img28.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/img29-x.jpg: 2015-08-14 12:51:24.000000000 -04:00
+build/nycfellowship/images/img29.jpg: 2015-08-14 12:51:25.000000000 -04:00
+build/nycfellowship/images/img3.jpg: 2015-08-14 12:51:25.000000000 -04:00
+build/nycfellowship/images/img4.jpg: 2015-08-14 12:51:25.000000000 -04:00
+build/nycfellowship/images/img5.jpg: 2015-08-14 12:51:26.000000000 -04:00
+build/nycfellowship/images/img6.jpg: 2015-08-14 12:51:26.000000000 -04:00
+build/nycfellowship/images/img7.jpg: 2015-08-14 12:51:26.000000000 -04:00
+build/nycfellowship/images/img8.jpg: 2015-08-14 12:51:27.000000000 -04:00
+build/nycfellowship/images/img9.jpg: 2015-08-14 12:51:27.000000000 -04:00
+build/nycfellowship/images/kickstarter-logo (1).png: 2015-08-14 12:51:44.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-logo-color.png: 2015-08-14 12:51:35.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-logo-greay-hires.png: 2015-08-14 12:51:42.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-logo-grey.png: 2015-08-14 12:51:43.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-logo-light.png: 2015-08-14 12:51:46.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-logo.png: 2015-08-14 12:52:02.000000000 -04:00
+build/nycfellowship/images/kickstarter-mini-color.png: 2015-08-14 12:51:47.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-mini-light.png: 2015-08-14 12:51:47.000000000
+  -04:00
+build/nycfellowship/images/kickstarter-mini.png: 2015-08-14 12:51:47.000000000 -04:00
+build/nycfellowship/images/logo.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/logo10-x.png: 2015-08-14 12:52:01.000000000 -04:00
+build/nycfellowship/images/logo10.png: 2015-08-14 12:51:48.000000000 -04:00
+build/nycfellowship/images/logo11-x.png: 2015-08-14 12:51:53.000000000 -04:00
+build/nycfellowship/images/logo11.png: 2015-08-14 12:51:54.000000000 -04:00
+build/nycfellowship/images/logo12.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/logo13.png: 2015-08-14 12:51:56.000000000 -04:00
+build/nycfellowship/images/logo2-x.png: 2015-08-14 12:52:49.000000000 -04:00
+build/nycfellowship/images/logo2.png: 2015-08-14 12:52:03.000000000 -04:00
+build/nycfellowship/images/logo3-x.png: 2015-08-14 12:52:21.000000000 -04:00
+build/nycfellowship/images/logo3.png: 2015-08-14 12:52:20.000000000 -04:00
+build/nycfellowship/images/logo4-x.png: 2015-08-14 12:52:25.000000000 -04:00
+build/nycfellowship/images/logo4.png: 2015-08-14 12:52:24.000000000 -04:00
+build/nycfellowship/images/logo5-x.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/logo5.png: 2015-08-14 12:31:52.000000000 -04:00
+build/nycfellowship/images/logo6-x.png: 2015-08-14 12:52:45.000000000 -04:00
+build/nycfellowship/images/logo6.png: 2015-08-14 12:52:46.000000000 -04:00
+build/nycfellowship/images/logo7-x.png: 2015-08-14 12:52:49.000000000 -04:00
+build/nycfellowship/images/logo7.png: 2015-08-14 12:52:48.000000000 -04:00
+build/nycfellowship/images/logo8-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycfellowship/images/logo8.png: 2015-08-14 12:52:48.000000000 -04:00
+build/nycfellowship/images/logo9-x.png: 2015-08-14 12:52:49.000000000 -04:00
+build/nycfellowship/images/logo9.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycfellowship/images/microsoft-logo-grey.jpg: 2015-08-14 12:52:50.000000000
+  -04:00
+build/nycfellowship/images/microsoft-logo-white.jpg: 2015-08-14 12:52:51.000000000
+  -04:00
+build/nycfellowship/images/microsoft-mini-color.png: 2015-08-14 12:52:51.000000000
+  -04:00
+build/nycfellowship/images/microsoft-mini.png: 2015-08-14 12:52:51.000000000 -04:00
+build/nycfellowship/images/microsoft_logo_4157.png: 2015-08-14 12:52:52.000000000
+  -04:00
+build/nycfellowship/images/none.gif: 2015-08-14 12:52:51.000000000 -04:00
+build/nycfellowship/images/nytimes-logo-mini.png: 2015-08-14 12:52:52.000000000 -04:00
+build/nycfellowship/images/sara.png: 2015-08-14 12:53:06.000000000 -04:00
+build/nycfellowship/images/sprite.png: 2015-08-14 12:53:11.000000000 -04:00
+build/nycfellowship/images/sprite2-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycfellowship/images/sprite2.png: 2015-08-14 12:53:12.000000000 -04:00
+build/nycfellowship/images/tech-pipeline-header-logo.png: 2015-08-14 12:53:12.000000000
+  -04:00
+build/nycfellowship/images/wall-street-journal-logo.png: 2015-08-14 12:53:30.000000000
+  -04:00
+build/nycfellowship/img/flatiron-horz-logo.png: 2015-08-14 12:53:13.000000000 -04:00
+build/nycfellowship/img/flatiron-logo.png: 2015-08-14 12:53:14.000000000 -04:00
+build/nycfellowship/img/work-force-1-header-background.png: 2015-08-14 12:53:15.000000000
+  -04:00
+build/nycfellowship/img/work-force-1-header-logo.png: 2015-08-14 12:53:25.000000000
+  -04:00
+build/nycfellowship/img/work-force-1-nyc-header-logo-2.png: 2015-08-14 12:53:21.000000000
+  -04:00
+build/nycfellowship/img/work-force-1-nyc-header-logo.png: 2015-08-14 12:53:24.000000000
+  -04:00
+build/nycworkforce1/images/appnexus-logo-color.png: 2015-08-14 12:53:25.000000000
+  -04:00
+build/nycworkforce1/images/appnexus-mini-color.png: 2015-08-14 12:53:27.000000000
+  -04:00
+build/nycworkforce1/images/arrows.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/barbarian-group-logo-mini.png: 2015-08-14 12:53:27.000000000
+  -04:00
+build/nycworkforce1/images/betaworks-logo.png: 2015-08-14 12:53:30.000000000 -04:00
+build/nycworkforce1/images/betaworks-mini.png: 2015-08-14 12:53:28.000000000 -04:00
+build/nycworkforce1/images/bg-block.png: 2015-08-14 12:53:45.000000000 -04:00
+build/nycworkforce1/images/bg-block2.png: 2015-08-14 12:53:41.000000000 -04:00
+build/nycworkforce1/images/bounce-exchange-logo-mini.png: 2015-08-14 12:53:31.000000000
+  -04:00
+build/nycworkforce1/images/cta-footer.png: 2015-08-14 12:54:45.000000000 -04:00
+build/nycworkforce1/images/do-something-logo-mini.png: 2015-08-14 12:53:53.000000000
+  -04:00
+build/nycworkforce1/images/flatiron-logo.png: 2015-08-14 12:53:55.000000000 -04:00
+build/nycworkforce1/images/foursquare-mini.png: 2015-08-14 12:53:54.000000000 -04:00
+build/nycworkforce1/images/FSPC_Logo_PreCollege_Lockup_White.png: 2015-08-14 12:53:54.000000000
+  -04:00
+build/nycworkforce1/images/icon-grid.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img1.jpg: 2015-08-14 12:53:55.000000000 -04:00
+build/nycworkforce1/images/img10.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img11.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img12.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img13.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img14.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img15.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img16.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img17.jpg: 2015-08-14 12:53:56.000000000 -04:00
+build/nycworkforce1/images/img18.jpg: 2015-08-14 12:53:57.000000000 -04:00
+build/nycworkforce1/images/img19.jpg: 2015-08-14 12:53:57.000000000 -04:00
+build/nycworkforce1/images/img2.jpg: 2015-08-14 12:53:57.000000000 -04:00
+build/nycworkforce1/images/img20.jpg: 2015-08-14 12:54:09.000000000 -04:00
+build/nycworkforce1/images/img21.jpg: 2015-08-14 12:53:58.000000000 -04:00
+build/nycworkforce1/images/img22.jpg: 2015-08-14 12:53:58.000000000 -04:00
+build/nycworkforce1/images/img23.jpg: 2015-08-14 12:53:58.000000000 -04:00
+build/nycworkforce1/images/img24-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img24.png: 2015-08-14 12:54:19.000000000 -04:00
+build/nycworkforce1/images/img25-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img25.png: 2015-08-14 12:54:27.000000000 -04:00
+build/nycworkforce1/images/img26-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img26.png: 2015-08-14 12:54:29.000000000 -04:00
+build/nycworkforce1/images/img27-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img27.png: 2015-08-14 12:54:36.000000000 -04:00
+build/nycworkforce1/images/img28-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img28.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/img29-x.jpg: 2015-08-14 12:54:46.000000000 -04:00
+build/nycworkforce1/images/img29.jpg: 2015-08-14 12:54:46.000000000 -04:00
+build/nycworkforce1/images/img3.jpg: 2015-08-14 12:54:46.000000000 -04:00
+build/nycworkforce1/images/img4.jpg: 2015-08-14 12:54:47.000000000 -04:00
+build/nycworkforce1/images/img5.jpg: 2015-08-14 12:54:47.000000000 -04:00
+build/nycworkforce1/images/img6.jpg: 2015-08-14 12:54:47.000000000 -04:00
+build/nycworkforce1/images/img7.jpg: 2015-08-14 12:54:47.000000000 -04:00
+build/nycworkforce1/images/img8.jpg: 2015-08-14 12:54:47.000000000 -04:00
+build/nycworkforce1/images/img9.jpg: 2015-08-14 12:54:47.000000000 -04:00
+build/nycworkforce1/images/kickstarter-logo (1).png: 2015-08-14 12:55:05.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-logo-color.png: 2015-08-14 12:54:51.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-logo-greay-hires.png: 2015-08-14 12:54:58.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-logo-grey.png: 2015-08-14 12:55:03.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-logo-light.png: 2015-08-14 12:55:03.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-logo.png: 2015-08-14 12:55:23.000000000 -04:00
+build/nycworkforce1/images/kickstarter-mini-color.png: 2015-08-14 12:55:05.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-mini-light.png: 2015-08-14 12:55:06.000000000
+  -04:00
+build/nycworkforce1/images/kickstarter-mini.png: 2015-08-14 12:55:06.000000000 -04:00
+build/nycworkforce1/images/logo.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/logo10-x.png: 2015-08-14 12:55:21.000000000 -04:00
+build/nycworkforce1/images/logo10.png: 2015-08-14 12:55:07.000000000 -04:00
+build/nycworkforce1/images/logo11-x.png: 2015-08-14 12:55:12.000000000 -04:00
+build/nycworkforce1/images/logo11.png: 2015-08-14 12:55:13.000000000 -04:00
+build/nycworkforce1/images/logo12.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/logo13.png: 2015-08-14 12:55:15.000000000 -04:00
+build/nycworkforce1/images/logo2-x.png: 2015-08-14 12:55:40.000000000 -04:00
+build/nycworkforce1/images/logo2.png: 2015-08-14 12:55:23.000000000 -04:00
+build/nycworkforce1/images/logo3-x.png: 2015-08-14 12:55:30.000000000 -04:00
+build/nycworkforce1/images/logo3.png: 2015-08-14 12:55:26.000000000 -04:00
+build/nycworkforce1/images/logo4-x.png: 2015-08-14 12:55:32.000000000 -04:00
+build/nycworkforce1/images/logo4.png: 2015-08-14 12:55:33.000000000 -04:00
+build/nycworkforce1/images/logo5-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/logo5.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/logo6-x.png: 2015-08-14 12:55:36.000000000 -04:00
+build/nycworkforce1/images/logo6.png: 2015-08-14 12:55:34.000000000 -04:00
+build/nycworkforce1/images/logo7-x.png: 2015-08-14 12:55:37.000000000 -04:00
+build/nycworkforce1/images/logo7.png: 2015-08-14 12:55:37.000000000 -04:00
+build/nycworkforce1/images/logo8-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/logo8.png: 2015-08-14 12:55:37.000000000 -04:00
+build/nycworkforce1/images/logo9-x.png: 2015-08-14 12:55:37.000000000 -04:00
+build/nycworkforce1/images/logo9.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/mashwork-logo-mini.png: 2015-08-14 12:55:39.000000000 -04:00
+build/nycworkforce1/images/mastercard-logo-mini.png: 2015-08-14 12:55:41.000000000
+  -04:00
+build/nycworkforce1/images/microsoft-logo-grey.jpg: 2015-08-14 12:55:39.000000000
+  -04:00
+build/nycworkforce1/images/microsoft-logo-white.jpg: 2015-08-14 12:55:39.000000000
+  -04:00
+build/nycworkforce1/images/microsoft-mini-color.png: 2015-08-14 12:55:40.000000000
+  -04:00
+build/nycworkforce1/images/microsoft-mini.png: 2015-08-14 12:55:40.000000000 -04:00
+build/nycworkforce1/images/microsoft_logo_4157.png: 2015-08-14 12:55:42.000000000
+  -04:00
+build/nycworkforce1/images/newscorp-logo-mini.png: 2015-08-14 12:55:41.000000000 -04:00
+build/nycworkforce1/images/none.gif: 2015-08-14 12:55:41.000000000 -04:00
+build/nycworkforce1/images/nytimes-logo-mini.png: 2015-08-14 12:55:41.000000000 -04:00
+build/nycworkforce1/images/rms-logo-mini.png: 2015-08-14 12:55:41.000000000 -04:00
+build/nycworkforce1/images/sara.png: 2015-08-14 12:55:57.000000000 -04:00
+build/nycworkforce1/images/sprite.png: 2015-08-14 12:56:02.000000000 -04:00
+build/nycworkforce1/images/sprite2-x.png: 2015-08-14 12:31:51.000000000 -04:00
+build/nycworkforce1/images/sprite2.png: 2015-08-14 12:56:02.000000000 -04:00
+build/nycworkforce1/images/tech-pipeline-header-logo.png: 2015-08-14 12:56:03.000000000
+  -04:00
+build/nycworkforce1/images/wall-street-journal-logo.png: 2015-08-14 12:56:19.000000000
+  -04:00
+build/nycworkforce1/images/xogroup-logo-mini.png: 2015-08-14 12:56:04.000000000 -04:00
+build/nycworkforce1/img/flatiron-horz-logo.png: 2015-08-14 12:56:05.000000000 -04:00
+build/nycworkforce1/img/flatiron-logo.png: 2015-08-14 12:56:05.000000000 -04:00
+build/nycworkforce1/img/work-force-1-header-background.png: 2015-08-14 12:56:06.000000000
+  -04:00
+build/nycworkforce1/img/work-force-1-header-logo.png: 2015-08-14 12:56:16.000000000
+  -04:00
+build/nycworkforce1/img/work-force-1-nyc-header-logo-2.png: 2015-08-14 12:56:13.000000000
+  -04:00
+build/nycworkforce1/img/work-force-1-nyc-header-logo.png: 2015-08-14 12:56:15.000000000
+  -04:00
+build/precollege/images/img-01.jpg: 2015-08-14 12:56:16.000000000 -04:00
+build/precollege/images/logo.png: 2015-08-14 12:56:18.000000000 -04:00

@@ -1,0 +1,1 @@
+$(function(){$(".slide .student-slide").length&&$("#student-slide-button").on("mouseover")});

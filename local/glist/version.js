@@ -1,0 +1,1 @@
+(function(){global.window=null,global.jQuery=function(){},global.jQuery.fn={},require("./jquery.gcal_flow.js"),console.log(global.jQuery.fn.gCalFlow("version"))}).call(this);

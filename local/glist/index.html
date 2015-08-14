@@ -1,0 +1,32 @@
+<html> <head> <link href="jquery.gcal_flow.css" rel=stylesheet> <script src="https://www.google.com/jsapi"></script> <script>
+      google.load("jquery", "1.7.1");
+    </script> <script>
+      _gCalFlow_debug = false;
+    </script> <script src="../../js/moment.min.js"></script> <script src="jquery.gcal_flow.js"></script> <script>
+      var $ = jQuery;
+      $(function () {
+
+        $('#gcf-design').gCalFlow({
+          calid: 'flatironschool.com_nqq8dc063etggmg122l4lfdt1o@group.calendar.google.com',
+          link_title: false,
+          link_item_title: false
+        });
+
+        $('body').on('click','.gcf-item-block', function (event) {
+          var link = $(this).find('.gcf-item-title').text();
+          link = link.toLowerCase().replace(/\s/g,'-');
+          link += '.html';
+          window.parent.location.href = '/nightsandweekends/courses/'+link;
+          event.preventDefault();
+        });
+        
+      });
+    </script> <style>
+      body { margin: 0; padding: 0; }
+      h2 { clear: both; margin-top: 2em; }
+      #gcf-design .gcf-header-block { display: none; }
+      #gcf-design { height: 500px; width: 99%; background: #fff; filter: none; border: 1px solid #ddd; border-radius: 0; -moz-border-radius: 0; -webkit-border-radius: 0;}
+      .gCalFlow .gcf-item-block {
+        border-bottom: 1px dotted #ddd;
+      }
+    </style> </head> <body> <div id=gcf-design> </div> </body> </html>
